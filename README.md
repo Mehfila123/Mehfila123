@@ -6,9 +6,9 @@ I'm currently working on MERN stack.<br>I'm here to improve my coding skills.<br
 
 # Social Links
 <a href="https://www.linkedin.com/in/mehfila-parkkulthil/">LinkedIn</a> <br>
-<a href="https://dev.to/mehfila_parkkulthil_23">Dev community</a>
-<a href="https://leetcode.com/u/Mehfilaparkkulthil/">Leetcode</a>
-<a href="https://stackoverflow.com/users/28392907/mehfila-a-parkkulthil">Stack Overflow</a>
+<a href="https://dev.to/mehfila_parkkulthil_23">Dev community</a> <br>
+<a href="https://leetcode.com/u/Mehfilaparkkulthil/">Leetcode</a> <br>
+<a href="https://stackoverflow.com/users/28392907/mehfila-a-parkkulthil">Stack Overflow</a> <br>
 <a href="">My website</a>
 
 
