@@ -1,4 +1,4 @@
-![icons8-linkedin](https://github.com/user-attachments/assets/9786a393-a66b-41ca-89a5-d664dbe88803)# 💫 About Me:
+# 💫 About Me:
 I'm currently working on MERN stack.<br>I'm here to improve my coding skills.<br>I do own a YouTube channel where I share my knowledge on coding.<br>
 
 # 💻 Tech Stack:
@@ -6,7 +6,7 @@ I'm currently working on MERN stack.<br>I'm here to improve my coding skills.<br
 
 # 👩‍💻 Social Links
 
-👩‍🎓 <a href="https://www.linkedin.com/in/mehfila-parkkulthil/">LinkedIn</a> <br>
+![icons8-linkedin](https://github.com/user-attachments/assets/9786a393-a66b-41ca-89a5-d664dbe88803) <a href="https://www.linkedin.com/in/mehfila-parkkulthil/">LinkedIn</a> <br>
 👩‍🎓<a href="https://dev.to/mehfila_parkkulthil_23">Dev community</a> <br>
 👩‍🎓<a href="https://leetcode.com/u/Mehfilaparkkulthil/">Leetcode</a> <br>
 👩‍🎓<a href="https://stackoverflow.com/users/28392907/mehfila-a-parkkulthil">Stack Overflow</a> <br>
