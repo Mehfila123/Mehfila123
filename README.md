@@ -1,9 +1,7 @@
 # 💫 About Me:
-<b>I'm currently working on MERN stack.
-<br>
-I'm here to improve my coding skills.
-<br>
-I do own a YouTube channel where I share my knowledge on coding.<br>
+<b>
+I'm currently enhancing my coding skills by working with the MERN stack.<br>
+I also manage a YouTube channel and a technical blog where I share my insights and knowledge about coding.
 </b>
 
 
